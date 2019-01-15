@@ -33,6 +33,7 @@ class App extends Component {
       [12, 6.6, 8.4, 5.2],
       [13, 4.8, 6.3, 3.6],
       [14, 4.2, 6.2, 3.4],
+        // TODO: see how it performs with millions of datapoints
     ]}
     options={{
       chart: {
